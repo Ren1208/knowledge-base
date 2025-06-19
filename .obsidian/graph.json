@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"🏠 Hub\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16228104
+      }
+    },
+    {
+      "query": "path:Бизнес-аналитика/Визуализация  ",
+      "color": {
+        "a": 1,
+        "rgb": 2401990
+      }
+    },
+    {
+      "query": "path:Бизнес-аналитика/Методы  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Бизнес-аналитика/Данные  ",
+      "color": {
+        "a": 1,
+        "rgb": 9985061
+      }
+    },
+    {
+      "query": "path:Бизнес-аналитика/Реализация  ",
+      "color": {
+        "a": 1,
+        "rgb": 13822990
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.348958333333333,
+  "repelStrength": 6.19791666666667,
+  "linkStrength": 0.565104166666667,
+  "linkDistance": 30,
+  "scale": 1.7455301671836831,
+  "close": true
+}
